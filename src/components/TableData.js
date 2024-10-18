@@ -24,8 +24,8 @@ export default class TableData extends Component {
       key: 'city',
     },
     {
-      title: 'Delete And Edit',
-      key: 'delete and edit',
+      title: 'Action',
+      key: 'action',
       render: (_, item, index) => (
         <>
           <button
