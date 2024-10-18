@@ -66,7 +66,6 @@ export default class Form extends Component {
             name='fname'
             placeholder='Enter First Name'
           />
-
           <label htmlFor="lname">Last Name:</label>
           <input
             type="text"
